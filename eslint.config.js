@@ -4,6 +4,6 @@ export default antfu({
   formatters: true,
   vue: true,
   rules: {
-    'no-console': 'off',
+    'no-console': 'warn',
   },
 })
